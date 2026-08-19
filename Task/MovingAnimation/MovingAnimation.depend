@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1786441871 source:d:\computer graphics\task\movinganimation\main.cpp
+	<cstdio>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1781594073 d:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

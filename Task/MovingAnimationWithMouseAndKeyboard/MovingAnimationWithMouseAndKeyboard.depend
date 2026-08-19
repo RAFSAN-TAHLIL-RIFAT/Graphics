@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1787047884 source:d:\computer graphics\task\movinganimationwithmouseandkeyboard\main.cpp
+	<cstdio>
+	<cmath>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1781594073 d:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
